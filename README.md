@@ -11,6 +11,7 @@ I'm SHAHAB UDDIN, a passionate Full-Stack Developer and an enthusiastic learner 
 ### 🌱 I’m currently learning:
 - HTML
 - CSS
+- Git & Github
 
 ### 📫 How to reach me:
 - Linkedin: www.linkedin.com/in/shahab-uddin24
