@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-![Cover Photo](https://github.com/shahab-24/SHAHAB-UDDIN/blob/main/shahab-linkedin.png?raw=true)
+![Cover Photo](https://github.com/shahab-24/SHAHAB-UDDIN/blob/main/1.png?raw=true)
 
 
 I'm SHAHAB UDDIN, a passionate Full-Stack Developer and an enthusiastic learner of ethical hacking and security. Currently, I'm focused on learning how to make web applications using the MERN stack and exploring new technologies.
