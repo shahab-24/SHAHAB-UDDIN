@@ -11,7 +11,10 @@ I'm SHAHAB UDDIN, a passionate Full-Stack Developer and an enthusiastic learner 
 ### 🌱 I’m currently learning:
 - HTML
 - CSS
+- Tailwind CSS
+- DaisyUI
 - Git & Github
+  
 
 ### 📫 How to reach me:
 - Linkedin: www.linkedin.com/in/shahab-uddin24
@@ -21,9 +24,5 @@ I'm SHAHAB UDDIN, a passionate Full-Stack Developer and an enthusiastic learner 
 - Remote web development opportunities
 - Collaborations on open source projects
 
-### 🛠️ Languages and Tools:
-- JavaScript, React, Node.js, Express, MongoDB
-- HTML, CSS, Tailwind, DaisyUI
-- Git, GitHub
 
 
